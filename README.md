@@ -80,4 +80,6 @@ Training is done via Edge Impulse Studio, then exported as an Arduino library fo
 ---
 ## Product images
 <img width="549" height="646" alt="Screenshot 2025-11-06 144130" src="https://github.com/user-attachments/assets/acc9feb8-e75e-4f20-938e-6d5bd387410e" />
+SCHEMATIC VIEW
+<img width="1058" height="684" alt="Screenshot 2025-11-06 163906" src="https://github.com/user-attachments/assets/74b0edcf-2f57-4191-ba1d-d583e9730397" />
 
